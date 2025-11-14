@@ -1,0 +1,41 @@
+# --- Core Python utilities ---
+numpy
+pandas
+python-dotenv
+pyyaml
+tqdm
+
+# --- Visualization & Plotting ---
+matplotlib
+seaborn
+plotly
+
+
+# --- Machine Learning ---
+scikit-learn
+
+# --- Data Engineering / Storage ---
+sqlalchemy
+duckdb
+pyarrow
+fastparquet
+openpyxl
+
+# --- Statistics & Econometrics ---
+statsmodels
+
+# --- Notebooks ---
+jupyter
+notebook
+ipykernel
+
+# --- Web & API ---
+requests
+beautifulsoup4
+
+# --- Streamlit App ---
+streamlit
+streamlit-extras
+
+
+-e .
